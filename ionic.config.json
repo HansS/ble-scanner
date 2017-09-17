@@ -1,5 +1,6 @@
 {
   "name": "ble-scanner",
-  "app_id": "",
-  "type": "ionic-angular"
+  "app_id": "396bf4f3",
+  "type": "ionic-angular",
+  "integrations": {}
 }
